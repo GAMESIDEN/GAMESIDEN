@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GAMESIDEN
+- 👋 Hi, I’m @Harsh Patel
 - 👀 I’m interested in Cybersecurity, Networking, Information Security
 - 🌱 I’m currently learning Masters in Information Technology Security
 
